@@ -20,7 +20,7 @@ namespace Order.Service
             var products = await _productService.GetProducts();
             Console.WriteLine($"Retrieved {products.Count()} products from ProductService.");
 
-            var product = products.FirstOrDefault(p => p.Id == orderRequest.ProductId);
+            var product = products.FirstOrDefault(p => p.ProductId == orderRequest.ProductId);
             if (product == null)
             {
                 Console.WriteLine($"Product with ID {orderRequest.ProductId} not found.");
@@ -44,6 +44,7 @@ namespace Order.Service
             };
 
             var createdOrder = await _orderRepository.AddOrder(order);
+
 
             return new OrderResponceDtos
             {

@@ -9,7 +9,7 @@ namespace Product.Mapper
         public static void ProductMappings()
         {
             TypeAdapterConfig<Entity.Product, ProductResponceDtos>.NewConfig()
-                .Map(dest => dest.Id, src => src.Id)
+                .Map(dest => dest.ProductId, src => src.ProductId)
                 .Map(dest => dest.Name, src => src.Name)
                 .Map(dest => dest.Price, src => src.Price)
                 .Map(dest => dest.Stock, src => src.Stock);

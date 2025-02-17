@@ -18,7 +18,7 @@ namespace Order.Service
             _httpClientFactory = httpClientFactory;
         }
 
-        public async Task<IEnumerable<ProductDto>> GetProducts()
+        public async Task<List<ProductDto>> GetProducts()
         {
             try
             {
@@ -40,7 +40,7 @@ namespace Order.Service
                     return new List<ProductDto>();
                 }
 
-                var resp = JsonSerializer.Deserialize<IEnumerable<ResponseDto>>(apiContent, new JsonSerializerOptions
+                var resp = JsonSerializer.Deserialize<List<ResponseDto>>(apiContent, new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
                 });
@@ -48,7 +48,7 @@ namespace Order.Service
                 if (resp != null && resp.Any(r => r.IsSuccess && r.Result != null))
                 {
                     var result = resp.First(r => r.IsSuccess && r.Result != null).Result;
-                    return JsonSerializer.Deserialize<IEnumerable<ProductDto>>(result.ToString(), new JsonSerializerOptions
+                    return JsonSerializer.Deserialize<List<ProductDto>>(result.ToString(), new JsonSerializerOptions
                     {
                         PropertyNameCaseInsensitive = true
                     }) ?? new List<ProductDto>();

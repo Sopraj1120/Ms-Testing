@@ -37,7 +37,7 @@ namespace Product.Repository
         {
             try
             {
-                var getProduct = await _context.Products.FirstOrDefaultAsync(x => x.Id == Id).ConfigureAwait(false)
+                var getProduct = await _context.Products.FirstOrDefaultAsync(x => x.ProductId == Id).ConfigureAwait(false)
                     ?? throw new KeyNotFoundException("Product Not Found!");
                 return getProduct;
             }
@@ -47,7 +47,7 @@ namespace Product.Repository
             }
         }
 
-        public async Task<IEnumerable<Entity.Product>> GetallProducts()
+        public async Task<List<Entity.Product>> GetallProducts()
         {
             try
             {
@@ -64,7 +64,7 @@ namespace Product.Repository
         {
             try
             {
-                var existingProduct = await GetProduct(product.Id).ConfigureAwait(false);
+                var existingProduct = await GetProduct(product.ProductId).ConfigureAwait(false);
                 if (existingProduct == null)
                 {
                     throw new Exception("Product not found.");
