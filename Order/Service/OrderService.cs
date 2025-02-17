@@ -15,11 +15,11 @@ namespace Order.Service
             _productService = productService;
         }
 
-        public async Task<OrderResponceDtos> CreateOrder(OrderRequestDtos orderRequest)
+        public async Task<dynamic> CreateOrder(OrderRequestDtos orderRequest)
         {
             var products = await _productService.GetProducts();
             Console.WriteLine($"Retrieved {products.Count()} products from ProductService.");
-
+           
             var product = products.FirstOrDefault(p => p.ProductId == orderRequest.ProductId);
             if (product == null)
             {
