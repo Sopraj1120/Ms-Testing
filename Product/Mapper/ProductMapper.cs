@@ -1,6 +1,4 @@
-﻿using Mapster;
-using Product.DTOs.RequestDtos;
-using Product.DTOs.ResponceDtos;
+﻿
 
 namespace Product.Mapper
 {

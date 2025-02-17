@@ -1,10 +1,5 @@
 
-using Microsoft.EntityFrameworkCore;
-using Order.Database;
-using Order.IRepository;
-using Order.IService;
-using Order.Repository;
-using Order.Service;
+
 
 namespace Order
 {

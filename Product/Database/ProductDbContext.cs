@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Product.Entity;
+﻿
 
 namespace Product.Database
 {

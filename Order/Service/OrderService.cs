@@ -1,6 +1,4 @@
-﻿using Order.Dtos;
-using Order.IRepository;
-using Order.IService;
+﻿
 
 namespace Order.Service
 {

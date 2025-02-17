@@ -1,12 +1,4 @@
-﻿using Product.Database;
-using Product.Entity;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using Product.IRepository;
-
+﻿
 namespace Product.Repository
 {
     public class ProductRepository : IProductRepository

@@ -124,7 +124,6 @@ C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\Order.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\Order.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\Order.sourcelink.json
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\scopedcss\bundle\Order.styles.css
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\staticwebassets.development.json
@@ -143,3 +142,4 @@ C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\Order.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\obj\Debug\net8.0\ref\Order.dll
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Order\bin\Debug\net8.0\RabbitMQ.Client.dll

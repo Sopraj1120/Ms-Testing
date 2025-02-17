@@ -1,5 +1,4 @@
-﻿using Product.DTOs.RequestDtos;
-using Product.DTOs.ResponceDtos;
+﻿
 
 namespace Product.IService
 {

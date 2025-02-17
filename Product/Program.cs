@@ -1,12 +1,6 @@
 
-using Mapster;
-using Microsoft.EntityFrameworkCore;
-using Product.Database;
-using Product.IRepository;
-using Product.IService;
-using Product.Mapper;
-using Product.Repository;
-using Product.Service;
+
+
 
 namespace Product
 {
