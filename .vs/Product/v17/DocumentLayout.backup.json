@@ -3,16 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Migrations\\20250217034947_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Order\\Migrations\\20250217034947_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Migrations\\20250217034911_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product\\Migrations\\20250217034911_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\dtos\\responcedtos\\productresponcedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\dtos\\responcedtos\\productresponcedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\dtos\\requestdtos\\productrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\dtos\\requestdtos\\productrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|solutionrelative:order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\product\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E1A240-B73F-477F-9F46-1D0123D8E418}|Product\\Product.csproj|solutionrelative:product\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79236E5D-5548-4E84-B06D-FA7819093123}|Order\\Order.csproj|c:\\users\\user\\onedrive\\desktop\\sop practice\\new folder\\new folder\\product\\order\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,24 +86,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250217034947_init2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Migrations\\20250217034947_init2.cs",
+              "RelativeDocumentMoniker": "Order\\Migrations\\20250217034947_init2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Migrations\\20250217034947_init2.cs",
+              "RelativeToolTip": "Order\\Migrations\\20250217034947_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:49:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20250217034911_init5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Migrations\\20250217034911_init5.cs",
+              "RelativeDocumentMoniker": "Product\\Migrations\\20250217034911_init5.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Migrations\\20250217034911_init5.cs",
+              "RelativeToolTip": "Product\\Migrations\\20250217034911_init5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:49:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductResponceDtos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\DTOs\\ResponceDtos\\ProductResponceDtos.cs",
+              "RelativeDocumentMoniker": "Product\\DTOs\\ResponceDtos\\ProductResponceDtos.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\DTOs\\ResponceDtos\\ProductResponceDtos.cs",
+              "RelativeToolTip": "Product\\DTOs\\ResponceDtos\\ProductResponceDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:48:35.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRequestDtos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\DTOs\\RequestDtos\\ProductRequestDtos.cs",
+              "RelativeDocumentMoniker": "Product\\DTOs\\RequestDtos\\ProductRequestDtos.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\DTOs\\RequestDtos\\ProductRequestDtos.cs",
+              "RelativeToolTip": "Product\\DTOs\\RequestDtos\\ProductRequestDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:48:32.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Mapper\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "Product\\Mapper\\ProductMapper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Mapper\\ProductMapper.cs",
+              "RelativeToolTip": "Product\\Mapper\\ProductMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:48:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Product\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Entity\\Product.cs",
+              "RelativeToolTip": "Product\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:46:17.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Order\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Order\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:39:59.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Order\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Order\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:38:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Order\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Entity\\Order.cs",
+              "RelativeToolTip": "Order\\Entity\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:30:20.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Service\\ProductService.cs",
+              "RelativeToolTip": "Product\\Service\\ProductService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:04:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Order\\Service\\OrderService.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\OrderService.cs",
               "RelativeToolTip": "Order\\Service\\OrderService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAawAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T15:41:18.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Program.cs",
+              "RelativeDocumentMoniker": "Order\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Program.cs",
+              "RelativeToolTip": "Order\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:08:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Order\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\ProductService.cs",
+              "RelativeToolTip": "Order\\Service\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:07:38.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Product\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:02:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Product\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:03:30.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Product\\IService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\IService\\IProductService.cs",
+              "RelativeToolTip": "Product\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:05:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:57:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Order",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Order.csproj",
               "RelativeDocumentMoniker": "Order\\Order.csproj",
@@ -58,33 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Program.cs",
-              "RelativeDocumentMoniker": "Order\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Program.cs",
-              "RelativeToolTip": "Order\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:08:54.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Order\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Service\\ProductService.cs",
-              "RelativeToolTip": "Order\\Service\\ProductService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAawFsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:07:38.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Order\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Order\\Properties\\launchSettings.json",

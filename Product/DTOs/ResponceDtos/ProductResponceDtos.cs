@@ -4,6 +4,6 @@ namespace Product.DTOs.ResponceDtos
 {
     public class ProductResponceDtos : ProductRequestDtos
     {
-        public Guid Id { get; set; }
+        public Guid ProductId { get; set; }
     }
 }

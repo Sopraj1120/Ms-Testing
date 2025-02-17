@@ -23,10 +23,10 @@ namespace Product.Service
             return addProduct.Adapt<ProductResponceDtos>();
         }
 
-        public async Task<IEnumerable<ProductResponceDtos>> GetAllProducts()
+        public async Task<List<ProductResponceDtos>> GetAllProducts()
         {
             var getProducts = await _productRepository.GetallProducts().ConfigureAwait(false);
-            return getProducts.Adapt<IEnumerable<ProductResponceDtos>>();
+            return getProducts.Adapt<List<ProductResponceDtos>>();
         }
 
         public async Task<ProductResponceDtos> GetProduct(Guid Id)
