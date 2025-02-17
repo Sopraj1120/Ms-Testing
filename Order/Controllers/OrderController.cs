@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Order.Dtos;
-using Order.IService;
-
+﻿
 namespace Order.Controllers
 {
     [Route("api/[controller]")]

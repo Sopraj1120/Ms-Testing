@@ -1,8 +1,4 @@
-﻿using Mapster;
-using Product.DTOs.RequestDtos;
-using Product.DTOs.ResponceDtos;
-using Product.IRepository;
-using Product.IService;
+﻿
 
 namespace Product.Service
 {

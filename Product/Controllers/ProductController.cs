@@ -1,7 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Product.DTOs.RequestDtos;
-using Product.IService;
+﻿
 
 namespace Product.Controllers
 {

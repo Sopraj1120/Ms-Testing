@@ -142,3 +142,4 @@ C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Produc
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Product\bin\Debug\net8.0\Mapster.dll
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Product\bin\Debug\net8.0\Mapster.Core.dll
 C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Product\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\User\OneDrive\Desktop\Sop practice\New folder\New folder\Product\Product\bin\Debug\net8.0\RabbitMQ.Client.dll

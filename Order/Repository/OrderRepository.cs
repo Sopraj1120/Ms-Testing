@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Order.Database;
-using Order.IRepository;
+﻿
 
 namespace Order.Repository
 {

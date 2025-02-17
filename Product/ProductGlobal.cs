@@ -1,0 +1,21 @@
+﻿global using Product.DTOs.RequestDtos;
+global using Microsoft.EntityFrameworkCore;
+global using Product.Entity;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Product.DTOs.RequestDtos;
+global using Product.IService;
+global using Product.DTOs.ResponceDtos;
+global using System.Collections.Generic;
+global using System.Threading.Tasks;
+global using Product.DTOs.ResponceDtos;
+global using Mapster;
+global using Product.Database;
+global using System;
+global using System.Security.Cryptography;
+global using Product.IRepository;
+global using Product.IService;
+global using Product.Repository;
+global using Product.Service;
+global using Product.Mapper;
+

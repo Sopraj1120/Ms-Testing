@@ -1,4 +1,4 @@
-﻿using Product.DTOs.ResponceDtos;
+﻿
 
 namespace Product.IRepository
 {
