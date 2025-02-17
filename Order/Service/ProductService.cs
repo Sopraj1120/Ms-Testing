@@ -40,21 +40,18 @@ namespace Order.Service
                     return new List<ProductDto>();
                 }
 
-                var resp = JsonSerializer.Deserialize<List<ResponseDto>>(apiContent, new JsonSerializerOptions
+                var resp = JsonSerializer.Deserialize<List<ProductDto>>(apiContent, new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
                 });
 
-                if (resp != null && resp.Any(r => r.IsSuccess && r.Result != null))
+                if (resp == null)
                 {
-                    var result = resp.First(r => r.IsSuccess && r.Result != null).Result;
-                    return JsonSerializer.Deserialize<List<ProductDto>>(result.ToString(), new JsonSerializerOptions
-                    {
-                        PropertyNameCaseInsensitive = true
-                    }) ?? new List<ProductDto>();
+                    Console.WriteLine("Error: Failed to deserialize API response.");
+                    return new List<ProductDto>();
                 }
 
-                return new List<ProductDto>();
+                return resp;
             }
             catch (JsonException ex)
             {
