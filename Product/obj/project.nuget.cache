@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wuf+4Rsmfzs=",
+  "dgSpecHash": "fXZ7jFABQ8w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Product.csproj",
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\Product.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
