@@ -9,6 +9,10 @@
       {
         "Path": "Order\\Order.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "ApiGateWay\\ApiGateWay.csproj",
+        "Action": "Start"
       }
     ]
   }

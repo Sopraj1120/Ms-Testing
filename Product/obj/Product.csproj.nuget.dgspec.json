@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Product.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\Product.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Product.csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\Product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Product.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\Product.csproj",
         "projectName": "Product",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\Product.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\Product.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\New folder\\New folder\\Product\\Product\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Sop practice\\Unicorn\\Microservice\\Ms-Testing\\Product\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

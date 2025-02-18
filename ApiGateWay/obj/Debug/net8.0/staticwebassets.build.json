@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Reqiusg7hbSCbz/poxLxoszAcEtPDj9YlikXQKGVzAw=",
+  "Source": "ApiGateWay",
+  "BasePath": "_content/ApiGateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
